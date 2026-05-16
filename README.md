@@ -113,7 +113,7 @@ git clone https://github.com/sintiasnn/satellite-image-classification.git
 cd satellite-image-classification
 ```
 
-**Create virtual environment (optional but recommended):**
+**Create virtual environment (wajib):**
 
 <details>
 <summary>Using venv (Python built-in)</summary>
