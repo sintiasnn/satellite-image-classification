@@ -5,3 +5,7 @@ __pycache__/
 .vscode/
 .idea/
 .env
+
+# Model files (large binary, not tracked)
+models/*
+!models/.gitkeep
