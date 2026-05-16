@@ -84,13 +84,12 @@ satellite-image-classification/
 
 | # | Section |
 |---|---|
-| 1 | Mount Google Drive & Extract Dataset |
-| 2 | Data Augmentation & Generator (80/20 split) |
-| 3 | Build CNN Model (3 Conv2D + Pooling layers) |
-| 4 | Compile & Train (Adam, categorical crossentropy) |
-| 5 | Early Stopping Callback (>85% accuracy) |
-| 6 | Plot Accuracy & Loss |
-| 7 | Save Model (`model-example.h5`) |
+| 1 | Project Description (dataset, problem statement, ML solution) |
+| 2 | Kaggle API Setup (install, credentials, download dataset) |
+| 3 | Data Preparation (extract, directories, augmentation, generators) |
+| 4 | Model Definition (CNN architecture, compile with Adam) |
+| 5 | Model Training & Evaluation (EarlyStopping, train, plot accuracy & loss) |
+| 6 | Model Deployment & Utility (prediction example, save model) |
 
 ## Results
 
