@@ -6,6 +6,9 @@ __pycache__/
 .idea/
 .env
 
+# macOS
+.DS_Store
+
 # Model files (large binary, not tracked)
 models/*
 !models/.gitkeep
