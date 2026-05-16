@@ -111,6 +111,32 @@ Open `deployment_image_classiffication_1.ipynb` in Google Colab with GPU runtime
 ```bash
 git clone https://github.com/sintiasnn/satellite-image-classification.git
 cd satellite-image-classification
+```
+
+**Create virtual environment (optional but recommended):**
+
+<details>
+<summary>Using venv (Python built-in)</summary>
+
+```bash
+python -m venv venv
+source venv/bin/activate   # macOS/Linux
+# venv\Scripts\activate    # Windows
+```
+</details>
+
+<details>
+<summary>Using conda</summary>
+
+```bash
+conda create -n satelit python=3.11 -y
+conda activate satelit
+```
+</details>
+
+**Install dependencies:**
+
+```bash
 pip install -r requirements.txt
 ```
 
