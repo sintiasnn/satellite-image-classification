@@ -8,6 +8,12 @@ __pycache__/
 
 # macOS
 .DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
 
 # Model files (large binary, not tracked)
 models/*
